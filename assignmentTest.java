@@ -1,4 +1,4 @@
-package day4;
+package selenium;
 
 import java.time.Duration;
 
